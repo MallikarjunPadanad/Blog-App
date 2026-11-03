@@ -1,5 +1,6 @@
 package com.dev.blog.domain.entities;
 
+import com.dev.blog.domain.PostStatus;
 import jakarta.persistence.*;
 import lombok.*;
 
