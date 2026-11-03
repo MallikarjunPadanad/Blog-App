@@ -6,10 +6,5 @@ import com.dev.blog.mapper.CategoryMapper;
 import org.springframework.stereotype.Component;
 
 
-@Component
-public class CategoryMapperImpl implements CategoryMapper {
-    @Override
-    public CategoryDto toDto(Category category) {
 
-    }
-}
+
